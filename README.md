@@ -4,4 +4,4 @@
 # 构建命令行
 ```bash
 # 克隆项目
-git clone https://github.com/HuangJiajia15602215864/vueNote_21.09-22.03
+git clone https://github.com/ccj24/vueNote_2024.09.13.git
